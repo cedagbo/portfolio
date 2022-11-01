@@ -86,7 +86,7 @@ Copyright (c) 2022 cedagbo
 
 ## Deployment
 <ul>
-    <li>Website:</li>
+    <li>Website: https://cedagbo.github.io/</li>
     <li>Repositary: https://github.com/cedagbo/portfolio </li> 
 </ul>
 
