@@ -20,6 +20,7 @@ Portfolio is a project encompassing a set of work to provide evidence of skills 
 </ul>
 
 ## Screenshot
+<img src="./images/screenshot.png" alt="portfolio screenshot">
 
 ## User Story
 As an employer I want to view a potential employee's deployed portfolio setting out his skills. This would enable us to review the collection of work and assess whether the given candidate is suitable for an open position.
