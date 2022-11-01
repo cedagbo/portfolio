@@ -114,12 +114,13 @@ p{
   list-style: none;
 }
 
-  #contact-border{
-    border-right: 4px solid black;
-    padding: 5px;
-    height: 200px;
-    row-gap: 10px;
-  }
+#contact-border{
+  border-right: 4px solid black;
+  padding: 5px;
+  height: 200px;
+  row-gap: 5px;
+}
+
 /* Print our mark on the footer*/
 footer{
   text-align: center;
