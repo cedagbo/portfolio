@@ -61,7 +61,16 @@ The current project does not require any installation.
 Refer to the url of the website
 
 ## Contributors
+We discuss some specifics of this challenge with our team members. 
+Here are their names:
+<ul>
+    <li>Adam Sall</li>
+    <li>Sam Brooke</li>
+    <li>Victor Biscio</li>
+    <li>Vittoria Bugana</li>
+</ul>
 
+Note that any improvement to the present code would be welcome.
 
 ## Documentation
 In order to build this project, a wide range of websites guide us throughout the process. They helped us consolide our knowledge and dig into CSS Flexbox.
