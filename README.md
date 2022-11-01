@@ -72,9 +72,10 @@ Licensed under MIT License. See license file for more information
 Copyright (c) 2022 cedagbo
 
 ## Deployment
-
-Website:
-Repositary:
+<ul>
+    <li>Website:</li>
+    <li>Repositary: https://github.com/cedagbo/portfolio </li> 
+</ul>
 
 ## Author
 @cedagbo
