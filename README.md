@@ -22,9 +22,9 @@ Portfolio is a project encompassing a set of my work to provide evidence of my s
 ## Screenshot
 
 ## User Story
+As an employer I want to view a potential employee's deployed portfolio setting out his skills. This would enable us to review the collection of work and assess whether the given candidate is suitable for an open position.
 
 ## Acceptance Criteria
-
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager's needs:
 <ul>
     <li>
