@@ -16,3 +16,27 @@ Portfolio is a project encompassing a set of my work to provide evidence of my s
 The current project is set up through the use of the following technologies:
 - HTML 5
 - CSS 3
+
+## Installation
+The current project does not require any installation. 
+
+## Usage
+Refer to the url of the website
+
+## Contributors
+
+
+## Documentation
+
+## Licence
+Licensed under MIT License. See license file for more information
+
+Copyright (c) 2022 cedagbo
+
+## Deployment
+
+Website:
+Repositary:
+
+## Author
+@cedagbo
