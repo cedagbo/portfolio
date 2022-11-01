@@ -64,7 +64,11 @@ Refer to the url of the website
 
 
 ## Documentation
-In order to build the website, a wide range of websites help 
+In order to build this project, a wide range of websites guide us throughout the process. They helped us consolide our knowledge and dig into CSS Flexbox.
+<ul>
+    <li>https://www.https://developer.mozilla.org/en-US/</li>
+    <li>https://https://www.w3schools.com/</li>
+</ul>
 
 ## Licence
 Licensed under MIT License. See license file for more information
