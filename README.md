@@ -71,7 +71,7 @@ In order to build this project, a wide range of websites guide us throughout the
 </ul>
 
 ## Licence
-Licensed under MIT License. See license file for more information
+Licensed under MIT License. See license file for more information.
 
 Copyright (c) 2022 cedagbo
 
