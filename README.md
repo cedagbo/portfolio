@@ -2,7 +2,7 @@
 
 ## Description
 
-Portfolio is a project encompassing a set of my work to provide evidence of my skills in the field. It shows my ability to present a collection of work to get it seen by employers.
+Portfolio is a project encompassing a set of work to provide evidence of skills in a given field. It shows a candidate's ability to present a collection of work to get it seen by employers.
 
 ## Table of contents
 <ul>
@@ -58,7 +58,7 @@ The current project is set up through the use of the following technologies:
 The current project does not require any installation. 
 
 ## Usage
-Refer to the url of the website
+Please refer to the url of the website.
 
 ## Contributors
 We discuss some specifics of this challenge with our team members. 
@@ -70,7 +70,7 @@ Here are their names:
     <li>Vittoria Bugana</li>
 </ul>
 
-Note that any improvement to the present code would be welcome.
+Note that any improvement to this project would be welcome.
 
 ## Documentation
 In order to build this project, a wide range of websites guide us throughout the process. They helped us consolide our knowledge and dig into CSS Flexbox.
